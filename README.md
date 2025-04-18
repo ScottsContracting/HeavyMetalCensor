@@ -1,0 +1,1 @@
+I have 90% of the needed arduino equipment and cant figure out how to write the code to make it work to set up a working model that can be used to monitor pollution that threatens our health and safety.
